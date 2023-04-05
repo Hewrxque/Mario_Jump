@@ -31,7 +31,7 @@
 .clouds {
     position: absolute;
     width: 50%;
-    bottom: 60%;
+    bottom: 50%;
     animation: clouds-animation 15s infinite linear;
 }
 
