@@ -24,9 +24,9 @@ const loop = setInterval(() => {
     mario.style.animation = `none`;
     mario.style.bottom = `${marioPosition}px`;
 
-    //  mario.src = './assets/Game-Over.jpg';
-    //  mario.style.width = '120px'
-    //  mario.style.marginLeft = '20px'
+      mario.src = './assets/Game-Over.png';
+      mario.style.width = '120px'
+      mario.style.marginLeft = '20px'
 
     clouds.style.animation = `none`;
     clouds.style.left = `${cloudsPosition}px`;
